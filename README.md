@@ -16,4 +16,4 @@ An AI powered Education platform that enables a teacher to teach a mass of stude
                         - AI-driven programs can give students and educators helpful feedback
                     </p>
                     
-Visit <a href="stevie1mat.github.io">Here</a> for more info.
+Visit <a targent="_blank" href="https://stevie1mat.github.io">Here</a> for more info.
